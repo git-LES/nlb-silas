@@ -32,6 +32,15 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
+					<b>Asian Women's Welfare Association</b><br></p>
+				</div>
+			</div>
+		</div>
+		<div class="col is-half person-info-card padding--right">
+			<div class="row margin--bottom--xs margin--right">
+				<div class="col is-one-third image-col"></div>
+				<div class="col padding--top padding--bottom bg-table-grey">
+					<p class="is-marginless padding--top--sm">
 					<b>Civil Service College</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Rosyati Ahmad</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">31 North Buona Vista Road, Singapore 275983</small><br><a href="mailto:Ms Rosyati Ahmad"><small class="is-uppercase" style="font-size: 0.75rem">Ms Rosyati Ahmad</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6874 1825</small><br></p>
 				</div>
 			</div>
@@ -42,6 +51,14 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
 					<b>Defence Science & Technology Agency</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Stephanie Seow</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Depot Road, Defence Tech Tower A, #03-01J, Singapore 109676</small><br><a href="mailto:irc@dsta.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">irc@dsta.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6373 4989</small><br></p>
+					</div>
+			</div>
+		</div><div class="col is-half person-info-card padding--right">
+			<div class="row margin--bottom--xs margin--right">
+				<div class="col is-one-third image-col"></div>
+				<div class="col padding--top padding--bottom bg-table-grey">
+					<p class="is-marginless padding--top--sm">
+					<b>ISEAS-Yusof Ishak Institute</b><br><small class="is-uppercase" style="font-size: 0.75rem">Ms Veronica Boudville</small></br><small class="is-uppercase" style="font-size: 0.75rem">30 Heng Mui Keng Terrace, Pasir Panjang, Singapore 119614</small><br><a href="mailto:veronica_boudville@iseas.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">veronica_boudville@iseas.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6870 2404</small><br></p>
 				</div>
 			</div>
 		</div>
@@ -95,15 +112,6 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Management Development Institute of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Frankie Wu</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">501 Stirling Road, Singapore 148951</small><br><a href="mailto:frankie_wust@mdis.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">frankie_wust@mdis.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6796 7801</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
 					<b>Monetary Authority of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Soh Mai Choo</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">10 Shenton Way, #01-01, MAS Building Singapore 079117</small><br><a href="mailto:mcsoh@mas.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">mcsoh@mas.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6229 9323</small><br></p>
 				</div>
 			</div>
@@ -149,16 +157,7 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Nanyang Technological University (Lee Kong Chian School of Medicine)</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Caroline Pang</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">11 Mandalay Road, Singapore 308232</small><br><a href="mailto:carolinepang@ntu.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">carolinepang@ntu.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6592 2443</small><br></p>
-				</div>
-			</div>
-		</div>
-		<div class="col is-half person-info-card padding--right">
-			<div class="row margin--bottom--xs margin--right">
-				<div class="col is-one-third image-col"></div>
-				<div class="col padding--top padding--bottom bg-table-grey">
-					<p class="is-marginless padding--top--sm">
-					<b>National Archives of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Zainah Arshad</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Canning Rise, Singapore 179868</small><br><a href="mailto:Zainah_Arshad@nlb.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">Zainah_Arshad@nlb.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6332 7909</small><br></p>
+					<b>National Archives of Singapore</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Yit Chin Chuan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">1 Canning Rise, Singapore 179868</small><br><a href="mailto:YIT_Chin_Chuan@nlb.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">YIT_Chin_Chuan@nlb.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6332 7909</small><br></p>
 				</div>
 			</div>
 		</div>
@@ -221,7 +220,7 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Raffles Institution</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Joanna Yu</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">One Raffles Institution Lane, Singapore 575954</small><br><a href="mailto:comms@ri.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">comms@ri.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6419 9888</small><br></p>
+					<b>Raffles Institution</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms May Chua</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">One Raffles Institution Lane, Singapore 575954</small><br><a href="mailto:comms@ri.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">comms@ri.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6419 9888</small><br></p>
 				</div>
 			</div>
 		</div>
@@ -257,7 +256,7 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore Civil Defence Force</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Normah Abu Hassan</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Civil Defence Academy Resource Library, CDA Complex, 91 Jalan Bahar Singapore 649735</small><br><a href="mailto:scdf_cda_library@scdf.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">scdf_cda_library@scdf.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6794 5694</small><br></p>
+					<b>Singapore Civil Defence Force</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Major Revathi Veerasamy</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">Civil Defence Academy Resource Library, CDA Complex, 91 Jalan Bahar Singapore 649735</small><br><a href="mailto:scdf_cda_library@scdf.gov.sg"><small class="is-uppercase" style="font-size: 0.75rem">scdf_cda_library@scdf.gov.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6794 5694</small><br></p>
 				</div>
 			</div>
 		</div>
@@ -301,7 +300,7 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore Polytechnic</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Lem Lei Kin</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">500 Dover Road, Singapore 139651</small><br><a href="mailto:library@sp.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">library@sp.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6772 1516</small><br></p>
+					<b>Singapore Polytechnic</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Ms Lem Lei Kin</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">500 Dover Road, Singapore 139651</small><br><a href="mailto:library@sp.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">library@sp.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6775 1133</small><br></p>
 				</div>
 			</div>
 		</div><div class="col is-half person-info-card padding--right">
@@ -309,7 +308,7 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>Singapore University of Technology and Design</b><br><small class="is-uppercase" style="font-size: 0.75rem">8 Somapah Rd, Building 1, Singapore 487372</small><br><small class="is-uppercase" style="font-size: 0.75rem">6303 6600</small><br></p>
+					<b>Singapore University of Social Sciences</b><br><small class="is-uppercase" style="font-size: 0.75rem">Ms Vivien Tan</small></br><small class="is-uppercase" style="font-size: 0.75rem">463 Clementi Road, Singapore 599494</small><br><a href="mailto:vivientanhl@suss.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">vivientanhl@suss.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6248 0450</small><br></p>
 				</div>
 			</div>
 		</div><div class="col is-half person-info-card padding--right">
@@ -317,7 +316,15 @@ There are currently 37 library members of SILAS. They are from higher learning i
 				<div class="col is-one-third image-col"></div>
 				<div class="col padding--top padding--bottom bg-table-grey">
 					<p class="is-marginless padding--top--sm">
-					<b>St Andrews Junior College</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mrs Sim Goek Sew</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">5, Sorby Adams Drive, Singapore 357691</small><br><a href="mailto:library@sajc.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">library@sajc.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6282 9074</small><br></p>
+					<b>Singapore University of Technology and Design</b><br><small class="is-uppercase" style="font-size: 0.75rem">Ms Judy Teo</small></br><small class="is-uppercase" style="font-size: 0.75rem">8 Somapah Rd, Building 1, Singapore 487372</small><br><small class="is-uppercase" style="font-size: 0.75rem">6303 6600</small><br></p>
+				</div>
+			</div>
+		</div><div class="col is-half person-info-card padding--right">
+			<div class="row margin--bottom--xs margin--right">
+				<div class="col is-one-third image-col"></div>
+				<div class="col padding--top padding--bottom bg-table-grey">
+					<p class="is-marginless padding--top--sm">
+					<b>St Andrews Junior College</b><br><b><small class="is-uppercase" style="font-size: 0.75rem">Mr Sia Lai Chai</small></b><br><small class="is-uppercase" style="font-size: 0.75rem">5, Sorby Adams Drive, Singapore 357691</small><br><a href="mailto:library@sajc.edu.sg"><small class="is-uppercase" style="font-size: 0.75rem">library@sajc.edu.sg</small></a><br><small class="is-uppercase" style="font-size: 0.75rem">6282 9074</small><br></p>
 				</div>
 			</div>
 		</div>
